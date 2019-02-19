@@ -1,1 +1,1 @@
-web: gunicorn gitprac:app
+web: gunicorn application:app
